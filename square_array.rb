@@ -8,3 +8,4 @@ def square_array(ary)
   ary.each_index { |i| a[i] = ary[i] * ary[i] }
   a
 end
+
